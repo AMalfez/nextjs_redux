@@ -1,0 +1,16 @@
+.delete_mail{
+    color:red; 
+    cursor: pointer;
+    padding-left: 30px;
+}
+.delete_mail:hover{
+    color: black;
+}
+h1{
+    text-align: center;
+}
+.email_list_container>p{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 10px;
+}
